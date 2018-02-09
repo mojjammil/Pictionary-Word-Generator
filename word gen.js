@@ -2,4 +2,6 @@ var words = ["treasure", "iPad", "password", "music", "tutor", "exercise", "maca
 function randomWords() {
   var randomWord = Math.floor(Math.random() * (words.length));
   document.getElementById("word").innerHTML = words[randomWord];
+  var audio = new Audio("ting.mp3");
+  audio.play();
 }
