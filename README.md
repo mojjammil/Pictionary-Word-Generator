@@ -1,4 +1,4 @@
-# Pictionary-Word-Generator
+# Pictionary-Word-Generator (Work in progress)
 The app was originally developed for a class party with limited word choices, and repeat word options to fool around and confuse the participants.
 
 I hope to complete the project with following features ✨ 
